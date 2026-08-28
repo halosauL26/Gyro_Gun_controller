@@ -7,7 +7,7 @@
 
 </td>
 <td align="right" valign="bottom">
-<img src="https://github.com/ravgau7597-hue/Gyro-Gun-controller-/raw/refs/heads/main/image">
+<img src="https://github.com/ravgau7597-hue/Gyro-Gun-controller-/raw/refs/heads/main/image" width="190">
 </td>
 </tr>
 </table>
