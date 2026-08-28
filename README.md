@@ -1,3 +1,21 @@
+<table>
+<tr>
+<td>
+
+<h1>🎮 Gyro Gun Controller</h1>
+
+<p>Motion-Controlled Gaming Controller</p>
+
+</td>
+
+<td align="right" valign="bottom">
+<img src="image/image.jpeg" width="250">
+</td>
+
+</tr>
+</table>
+
+
 # Pico Gyro Gun Controller 🎮 
 
 A custom, dual-mode game controller built with a Raspberry Pi Pico. It features full 250Hz gyro aiming for FPS games and a potentiometer based steering wheel mode for racing games (like Asphalt). 
