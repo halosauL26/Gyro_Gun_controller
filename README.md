@@ -67,5 +67,11 @@ Acts as a standard USB HID Mouse and Keyboard no special PC drivers required!
 * **Mode Switching:** Press and hold the joystick button (L3) for 1.2 seconds to toggle between FPS Mode and Racing Mode. The LEDs will flash to confirm.
 * **Re-center Mouse:** Hold the Zoom + Reload buttons together for 0.5 seconds to instantly snap the mouse cursor to the center of the screen.
 
+## Games to play
+1. Counter Strike
+2. World Of Shooting
+3. Call Of Duty
+4. Ashfault Racing
+
 ## License
 This project is open-source under the MIT License. Feel free to modify and build your own!
