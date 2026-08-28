@@ -19,7 +19,7 @@ Acts as a standard USB HID Mouse and Keyboard no special PC drivers required!
 ## Features
 * **FPS Mode (Default):** 
   * Ultra-smooth gyro aiming using an MPU-6500 sensor.
-  * Analog joystick mapped to 8-way WASD movement.
+  * Analog joystick mapped WASD movement.
   * Jump (Spacebar) on short joystick press, Mode toggle on long press.
   * Trigger (Left Click), Zoom (Right Click), and Reload (R) buttons.
 * **Racing Mode (Asphalt):**
@@ -32,7 +32,7 @@ Acts as a standard USB HID Mouse and Keyboard no special PC drivers required!
 ## Hardware Required
 * 1x Raspberry Pi Pico (RP2040)
 * 1x MPU-6500 Gyroscope/Accelerometer module
-* 1x Analog Thumbstick module
+* 1x Analog Thumbstick/Joystick module
 * 1x 10k Potentiometer (for steering wheel)
 * 3x Arcade/Tactile Push Buttons (Trigger, Zoom, Reload)
 * 2x LEDs (with 220Ω resistors)
