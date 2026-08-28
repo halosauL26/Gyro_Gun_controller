@@ -1,20 +1,29 @@
 <table>
 <tr>
-<td>
+<td width="60%" valign="middle">
 
 <h1>🎮 Gyro Gun Controller</h1>
-             <p>Motion Controlled Gaming Controller</p>
+
+<h3>Motion-Controlled Gaming Controller</h3>
+
+<p>
+A custom dual-mode controller built with Raspberry Pi Pico,
+featuring gyroscope-based aiming and analog steering.
+</p>
 
 </td>
-<td align="right" valign="bottom">
-<img src="https://github.com/ravgau7597-hue/Gyro-Gun-controller-/raw/refs/heads/main/image" width="190">
+
+<td width="40%" align="center" valign="middle">
+
+<img src=""https://github.com/ravgau7597-hue/Gyro-Gun-controller-/raw/refs/heads/main/image" width="220">
+
 </td>
 </tr>
 </table>
 
 A custom, dual-mode game controller built with a Raspberry Pi Pico. It features full 250Hz gyro aiming for FPS games and a potentiometer based steering wheel mode for racing games. It is a prototype made using breadboard and a toy gun.
 
-Acts as a standard USB HID Mouse and Keyboard no special PC drivers required!
+Acts as a standard USB HID Mouse and Keyboard no special PC drivers required
 
 ## Features
 * **FPS Mode (Default):** 
