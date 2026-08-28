@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-A custom, dual-mode game controller built with a Raspberry Pi Pico. It features full 250Hz gyro aiming for FPS games and a potentiometer based steering wheel mode for racing games (like Asphalt). 
+A custom, dual-mode game controller built with a Raspberry Pi Pico. It features full 250Hz gyro aiming for FPS games and a potentiometer based steering wheel mode for racing games. It is a prototype made using breadboard and a toy gun.
 
 Acts as a standard USB HID Mouse and Keyboard no special PC drivers required!
 
