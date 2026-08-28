@@ -21,9 +21,9 @@ featuring gyroscope based aiming and analog steering wheel mode for racing games
 </tr>
 </table>
 
-Acts as a standard USB HID Mouse and Keyboard no special PC drivers required
+Acts as a standard USB HID Mouse and Keyboard, no special PC drivers required
 
-## Features
+## Features 🚀
 * **FPS Mode (Default):** 
   * Ultra-smooth gyro aiming using an MPU-6500 sensor.
   * Analog joystick mapped WASD movement.
@@ -36,7 +36,7 @@ Acts as a standard USB HID Mouse and Keyboard no special PC drivers required
 * **Hardware Debouncing:** Rock-solid button presses with zero double-clicks.
 * **Auto-Calibration:** Gyro automatically calibrates drift when left perfectly still for 1.5 seconds.
 
-## Hardware Required
+## Hardware Required 🤖
 * 1x Raspberry Pi Pico (RP2040)
 * 1x MPU-6500 Gyroscope/Accelerometer module
 * 1x Analog Thumbstick/Joystick module
@@ -74,7 +74,7 @@ Acts as a standard USB HID Mouse and Keyboard no special PC drivers required
 * **Mode Switching:** Press and hold the joystick button (L3) for 1.2 seconds to toggle between FPS Mode and Racing Mode. The LEDs will flash to confirm.
 * **Re-center Mouse:** Hold the Zoom + Reload buttons together for 0.5 seconds to instantly snap the mouse cursor to the center of the screen.
 
-## Games to play
+## Games to play 🎯
 1. Counter Strike
 2. World Of Shooting
 3. Call Of Duty
