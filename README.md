@@ -3,7 +3,7 @@
 <td>
 
 <h1>🎮 Gyro Gun Controller</h1>
-<p>Motion-Controlled Gaming Controller</p>
+    <p>MotionControlled Gaming Controller</p>
 
 </td>
 <td align="right" valign="bottom">
