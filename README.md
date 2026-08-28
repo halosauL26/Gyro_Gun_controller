@@ -15,7 +15,7 @@ featuring gyroscope-based aiming and analog steering.
 
 <td width="40%" align="center" valign="middle">
 
-<img src=""https://github.com/ravgau7597-hue/Gyro-Gun-controller-/raw/refs/heads/main/image" width="220">
+<img src="https://github.com/ravgau7597-hue/Gyro-Gun-controller-/raw/refs/heads/main/image" width="220">
 
 </td>
 </tr>
